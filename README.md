@@ -4,7 +4,7 @@ Official webinar repository from Shivani_Bioinfo.
 
 ## Speaker
 
-Shivani Vishnu Pawar
+Shivani Pawar
 
 ## About Shivani_Bioinfo
 
